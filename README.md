@@ -1,5 +1,8 @@
 IMDB CLONE (SKill Test )
 
+Hosting Link :- https://tejas-mahajan1.github.io/imdbclone.github.io/
+
+
 This website is created assuming three section:
 
 i. Header section: this section has been built for only containing the heading name and my favorites option of the webiste.
